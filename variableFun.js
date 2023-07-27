@@ -1,0 +1,13 @@
+var numerator = 10;
+var denominator = 5;
+var fraction = numerator / denominator;
+console.log("Fraction is" + fraction);
+var label;
+label = " Heloo there";
+console.log("My label is " + label);
+label = " Not Heloo anymore";
+console.log("My label is" + label);
+var skyIsBlue = true;
+console.log("My sky is blue?" + skyIsBlue);
+var pi = 3.14123;
+console.log("Pi!" + pi);
